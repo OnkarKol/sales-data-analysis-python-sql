@@ -1,13 +1,13 @@
-Project Title : 
+* Project Title  
 
-Sales Data Analysis using Python and SQL
+* Sales Data Analysis using Python and SQL
 
 
-Project Overview:
+* Project Overview:
 
 This project analyzes retail sales data to identify key business insights such as sales trends, regional performance, and top customers. The analysis was performed using Python for data exploration and visualization, and SQL for database analysis.
 
-Tools and Technologies :
+* Tools and Technologies :
 
 Python
 
@@ -24,7 +24,7 @@ MySQL Workbench
 Jupyter Notebook
 
 
-Dataset :
+* Dataset :
 
 Superstore Sales Dataset containing:
 
@@ -41,7 +41,7 @@ Sales
 Profit
 
 
-Project Steps :
+* Project Steps :
 
 Data cleaning using Python
 
@@ -54,7 +54,7 @@ Data visualization
 Business insights generation
 
 
-Key Insights :
+* Key Insights :
 
 West region generated the highest sales.
 
@@ -65,6 +65,5 @@ Certain months showed higher sales indicating seasonal demand.
 Consumer segment dominated overall sales.
 
 
-Author
-
-Onkar Kolapkar
+* Author : 
+* Onkar Kolapkar
